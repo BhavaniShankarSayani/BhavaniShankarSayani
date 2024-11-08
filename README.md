@@ -6,7 +6,7 @@
 - 🔍 I’m Exploring new java fullstack technologies. 
 - ⚡ Fun fact: ...I once hiked a volcano and watched the sunrise from the top!
 - 🌟 Passionate about open-source contributions!
-- 📫 How to reach me ...bhavanishankarsayani@gmail.com
+- 📫 How to reach me ...shankarnaidu92832@gmail.com
 
 <!---
 BhavaniShankarSayani/BhavaniShankarSayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
